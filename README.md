@@ -155,9 +155,13 @@ http://localhost:3000
 ## 🎮 How It Works
 
 1️⃣ User enters a country name.
+
 2️⃣ The server searches for the country in the database.
+
 3️⃣ The corresponding country code is saved in PostgreSQL.
+
 4️⃣ The country is colored on the world map.
+
 5️⃣ The total visited countries count updates.
 
 ---
@@ -165,9 +169,13 @@ http://localhost:3000
 ## 🚀 Future Improvements
 
 🌎 Show country information on click
+
 📊 Track visited continents
+
 🧭 Add travel history timeline
+
 🏆 Add user accounts
+
 📍 Save travel notes
 
 ---
